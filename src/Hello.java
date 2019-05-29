@@ -1,5 +1,5 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("你好我是wewewe");
+        System.out.println("你好我是wewewe警徽加油");
     }
 }
